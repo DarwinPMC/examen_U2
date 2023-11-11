@@ -1,0 +1,150 @@
+{
+  "project_info": {
+    "project_number": "326831698138",
+    "project_id": "loginmovil-c3a75",
+    "storage_bucket": "loginmovil-c3a75.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:326831698138:android:643c25adacf2849427f5e3",
+        "android_client_info": {
+          "package_name": "com.example.asistenciaupeu_frontend"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "326831698138-4oi106ssgl0rh5o25dvi03jjamv75ulg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.asistenciaupeu_frontend",
+            "certificate_hash": "3c5940223a2e61f1337219ac87e826f92a145532"
+          }
+        },
+        {
+          "client_id": "326831698138-okpg03hcn09evge43eqe3oh5bq6sj4kc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.asistenciaupeu_frontend",
+            "certificate_hash": "3ebc82a8d259c4a4f6e974c19fcb87be82099646"
+          }
+        },
+        {
+          "client_id": "326831698138-vedffoeqrdbh4613n0b4j7ttpj8bt2kv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrluJ2bHp7dVE4ReEy7ZU0H9BQYnphJz8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "326831698138-vedffoeqrdbh4613n0b4j7ttpj8bt2kv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "326831698138-30l08rh43479cq6n1u2f4ordlrb0lq3q.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.asistenciaupeuFrontend.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:326831698138:android:e5005b199649485b27f5e3",
+        "android_client_info": {
+          "package_name": "pe.edu.upeu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "326831698138-ehmj8nfenqnlimrp9g0hvsnh1megs1st.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "pe.edu.upeu",
+            "certificate_hash": "3ebc82a8d259c4a4f6e974c19fcb87be82099646"
+          }
+        },
+        {
+          "client_id": "326831698138-nudnjeg0mgf3ovq10igeca6dtvtg7vjn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "pe.edu.upeu",
+            "certificate_hash": "3c5940223a2e61f1337219ac87e826f92a145532"
+          }
+        },
+        {
+          "client_id": "326831698138-vedffoeqrdbh4613n0b4j7ttpj8bt2kv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrluJ2bHp7dVE4ReEy7ZU0H9BQYnphJz8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "326831698138-vedffoeqrdbh4613n0b4j7ttpj8bt2kv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "326831698138-30l08rh43479cq6n1u2f4ordlrb0lq3q.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.asistenciaupeuFrontend.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:326831698138:android:39ffc3c082a71c0b27f5e3",
+        "android_client_info": {
+          "package_name": "pe.edu.upeu.asistencia_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "326831698138-vedffoeqrdbh4613n0b4j7ttpj8bt2kv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrluJ2bHp7dVE4ReEy7ZU0H9BQYnphJz8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "326831698138-vedffoeqrdbh4613n0b4j7ttpj8bt2kv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "326831698138-30l08rh43479cq6n1u2f4ordlrb0lq3q.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.asistenciaupeuFrontend.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
